@@ -14,6 +14,7 @@
 		1AF5E5D22618BFFF000164E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AF5E5D02618BFFF000164E1 /* LaunchScreen.storyboard */; };
 		1AF5E5E42618CC36000164E1 /* FeedTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF5E5E32618CC36000164E1 /* FeedTableVC.swift */; };
 		1AF5E5E82618CE68000164E1 /* FeedImageViewModel+PrototypeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF5E5E72618CE68000164E1 /* FeedImageViewModel+PrototypeData.swift */; };
+		1AF5E5EB2618CF4B000164E1 /* FeedImageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF5E5EA2618CF4B000164E1 /* FeedImageCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1AF5E5D32618BFFF000164E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1AF5E5E32618CC36000164E1 /* FeedTableVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedTableVC.swift; sourceTree = "<group>"; };
 		1AF5E5E72618CE68000164E1 /* FeedImageViewModel+PrototypeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FeedImageViewModel+PrototypeData.swift"; sourceTree = "<group>"; };
+		1AF5E5EA2618CF4B000164E1 /* FeedImageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedImageCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				1AF5E5D32618BFFF000164E1 /* Info.plist */,
 				1AF5E5E32618CC36000164E1 /* FeedTableVC.swift */,
 				1AF5E5E72618CE68000164E1 /* FeedImageViewModel+PrototypeData.swift */,
+				1AF5E5EA2618CF4B000164E1 /* FeedImageCell.swift */,
 			);
 			path = Prototype;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				1AF5E5C62618BFFD000164E1 /* AppDelegate.swift in Sources */,
 				1AF5E5C82618BFFE000164E1 /* SceneDelegate.swift in Sources */,
 				1AF5E5E82618CE68000164E1 /* FeedImageViewModel+PrototypeData.swift in Sources */,
+				1AF5E5EB2618CF4B000164E1 /* FeedImageCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
